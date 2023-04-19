@@ -1,5 +1,7 @@
 Circle That Drain!
 ==================
-Sometimes, I like to write things. I used to do that primarily on social media sites. I've decided I'm less into that these days. Let's see how using a proper website goes.
+I've decided to try running my own website as a means of getting better with various techonologies, and also to have a place to put my writing where others _can_ see it but most _won't_. If you're wondering why I don't use a blogging platform like a sensible person would, well... I don't have a good answer for that. Sorry.
 
+Categories
+----------
 - [What I've Been Reading](reading/index)
