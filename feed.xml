@@ -6,10 +6,9 @@
     <item>
       <title>April 2023 Reading</title>
       <link>https://circlethatdrain.github.io/reading/202304</link>
-      <description>What I read in April of 2023</description>
       <pubDate>Mon, 1 May 2023 00:00:00 +0000</pubDate>
       <category>MonthlyReading</category>
-      <content>
+      <description>
 	<p>Here's what I read in April of 2023</p>
 	<ul>
 	  <li><i>Steve Jobs</i> by Walter Isaacson</li>
@@ -21,7 +20,7 @@
 	  <li><i>Bullshit Jobs</i> by David Graeber</li>
 	</ul>
 	<p>To get more details, click <a href="https://www.circlethatdrain.github.io/reading/202304">here</a></p>
-      </content>
+      </description>
     </item>
   </channel>
 </rss>
