@@ -1,0 +1,27 @@
+<rss version="2.0">
+  <channel>
+    <title>Circle That Drain!</title>
+    <link>https://circlethatdrain.github.io</link>
+    <description>A collection of random writings</description>
+    <item>
+      <title>April 2023 Reading</title>
+      <link>https://circlethatdrain.github.io/reading/202304</link>
+      <description>What I read in April of 2023</description>
+      <pubDate>Mon, 1 May 2023 00:00:00 +0000</pubDate>
+      <category>MonthlyReading</category>
+      <content>
+	<p>Here's what I read in April of 2023</p>
+	<ul>
+	  <li><i>Steve Jobs</i> by Walter Isaacson</li>
+	  <li><i>Aviva and the Dybbuk</i> by Mari Lowe</li>
+	  <li><i>Telluria</i> by Vladimir Sorokin</li>
+	  <li><i>Welcome to the Goddamn Ice Cube</i> by Blair Braverman</li>
+	  <li><i>A Deadly Edcuation</i> by Naomi Novik</li>
+	  <li><i>Day of the Oprichnik</i> by Vladimir Sorokin</li>
+	  <li><i>Bullshit Jobs</i> by David Graeber</li>
+	</ul>
+	<p>To get more details, click <a href="https://www.circlethatdrain.github.io/reading/202304>here</a></p>
+      </content>
+    </item>
+  </channel>
+</rss>
