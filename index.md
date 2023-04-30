@@ -4,4 +4,4 @@ I've decided to try running my own website as a means of getting better with var
 
 Categories
 ----------
-- [What I've Been Reading](reading/index)
+- [Monthly Book Capsule Reviews](reading/index)
