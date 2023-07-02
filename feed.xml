@@ -43,5 +43,26 @@
 	]]>
       </description>
     </item>
+
+    <item>
+      <title>June 2023 Reading</title>
+      <link>https://circlethatdrain.github.io/reading/202306</link>
+      <pubDate>Sun, 3 July 2023 18:30:00 +0000</pubDate>
+      <category>MonthlyReading</category>
+      <description>
+	<![CDATA[
+	<p>Here's what I read in June of 2023</p>
+	<ul>
+	  <li><i>Everfair</i> by Nisi Shawl</li>
+	  <li><i>Bleed</i> by Tracey Lindeman</li>
+	  <li><i>Everything Flows</i> by Vasily Grossman</li>
+	  <li><i>The Shock Doctrine</i> by Naomi Klein</li>
+	  <li><i>American Born Chinese</i> by Gene Luen Yang</li>
+	</ul>
+	<p>To get more details, click <a href="https://www.circlethatdrain.github.io/reading/202306">here</a></p>
+	]]>
+      </description>
+    </item>
+
   </channel>
 </rss>
