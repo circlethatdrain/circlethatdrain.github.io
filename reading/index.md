@@ -7,7 +7,7 @@ Back Catalog of Monthly Reading Capsules
 Review Index
 ------------
 - [_A Deadly Education_ by Naomi Novik](202304#a-deadly-education-by-naomi-novik)
-- [_American Born Chinese_ by Gene Luen Yang](202306#american-born-chinese-by-jene-luen-yang)
+- [_American Born Chinese_ by Gene Luen Yang](202306#american-born-chinese-by-gene-luen-yang)
 - [_Aviva and the Dybbuk_ by Mari Lowe](202304#aviva-and-the-dybbuk-by-mari-lowe)
 - [_Bleed_ by Tracey Lindeman](202306#bleed-by-tracey-lindeman)
 - [_Bloodlands_ by Timothy D Snyder](202305#bloodlands-by-timothy-d-snyder)
@@ -21,4 +21,4 @@ Review Index
 - [_The Shock Doctrine_ by Naomi Klein](202306#the-shock-doctrine-by-naomi-klein)
 - [_The Spear Cuts Through Water_ by Simon Jimenez](202305#the-spear-cuts-through-water-by-simon-jimenez)
 - [_The Winner_ by David Baldacci](202305#the-winner-by-david-baldacci)
-- [_Welcome to the Goddamn Ice Cube_ by Blair Braverman](202304-welcome-to-the-goddamn-ice-cube-by-blair-braverman)
+- [_Welcome to the Goddamn Ice Cube_ by Blair Braverman](202305-welcome-to-the-goddamn-ice-cube-by-blair-braverman)
