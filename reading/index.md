@@ -21,4 +21,4 @@ Review Index
 - [_The Shock Doctrine_ by Naomi Klein](202306#the-shock-doctrine-by-naomi-klein)
 - [_The Spear Cuts Through Water_ by Simon Jimenez](202305#the-spear-cuts-through-water-by-simon-jimenez)
 - [_The Winner_ by David Baldacci](202305#the-winner-by-david-baldacci)
-- [_Welcome to the Goddamn Ice Cube_ by Blair Braverman](202305-welcome-to-the-goddamn-ice-cube-by-blair-braverman)
+- [_Welcome to the Goddamn Ice Cube_ by Blair Braverman](202304#welcome-to-the-goddamn-ice-cube-by-blair-braverman)
