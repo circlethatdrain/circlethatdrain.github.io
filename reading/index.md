@@ -3,18 +3,23 @@ Back Catalog of Monthly Reading Capsules
 - [April 2023](202304)
 - [May 2023](202305)
 - [June 2023](202306)
+- [July 2023](202307)
 
 Review Index
 ------------
 - [_A Deadly Education_ by Naomi Novik](202304#a-deadly-education-by-naomi-novik)
 - [_American Born Chinese_ by Gene Luen Yang](202306#american-born-chinese-by-gene-luen-yang)
 - [_Aviva and the Dybbuk_ by Mari Lowe](202304#aviva-and-the-dybbuk-by-mari-lowe)
+- [_Angels in America: A Gay Fantasia on National Themes_ by Tony Kushner](202307#angels-in-america-a-gay-fantasia-on-national-themes-by-tony-kushner)
 - [_Bleed_ by Tracey Lindeman](202306#bleed-by-tracey-lindeman)
 - [_Bloodlands_ by Timothy D Snyder](202305#bloodlands-by-timothy-d-snyder)
 - [_Bullshit Jobs_ by David Graeber](202304#bullshit-jobs-by-david-graeber)
 - [_Day of the Oprichnik_ by Vladimir Sorokin](202304#day-of-the-oprichnik-by-vladimir-sorokin)
 - [_Everfair_ by Nisi Shawl](202306#everfair-by-nisi-shawl)
 - [_Everything Flows_ by Vasily Grossman](202306#everything-flows-by-vasily-grossman)
+- [_I Know Why the Caged Bird Sings_ by Maya Angelou](202307#i-know-why-the-caged-bird-sings-by-maya-angelou)
+- [_Our Missing Hearts_ by Celeste Ng](202307#our-missing-hearts-by-celeste-ng)
+- [_Spare_ by Prince Harry](202307#spare-by-prince-harry)
 - [_Steve Jobs_ by Walter Isaacson](202304#steve-jobs-by-walter-isaacson)-
 - [_Telluria_ by Vladimir Sorokin](202304#telluria-by-vladimir-sorokin)
 - [_The Last Graduate_ by Naomi Novik](202305#the-last-graduate-by-naomi-novik)
