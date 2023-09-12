@@ -4,6 +4,7 @@ Back Catalog of Monthly Reading Capsules
 - [May 2023](202305)
 - [June 2023](202306)
 - [July 2023](202307)
+- [August 2023](202308)
 
 Review Index
 ------------
@@ -14,11 +15,13 @@ Review Index
 - [_Bleed_ by Tracey Lindeman](202306#bleed-by-tracey-lindeman)
 - [_Bloodlands_ by Timothy D Snyder](202305#bloodlands-by-timothy-d-snyder)
 - [_Bullshit Jobs_ by David Graeber](202304#bullshit-jobs-by-david-graeber)
+- [_Coming of Age in Samoa_ by Margaret Mead](202308#coming-of-age-in-samoa-by-margaret-mead)
 - [_Day of the Oprichnik_ by Vladimir Sorokin](202304#day-of-the-oprichnik-by-vladimir-sorokin)
 - [_Everfair_ by Nisi Shawl](202306#everfair-by-nisi-shawl)
 - [_Everything Flows_ by Vasily Grossman](202306#everything-flows-by-vasily-grossman)
 - [_I Know Why the Caged Bird Sings_ by Maya Angelou](202307#i-know-why-the-caged-bird-sings-by-maya-angelou)
 - [_Our Missing Hearts_ by Celeste Ng](202307#our-missing-hearts-by-celeste-ng)
+- [_Soonish_ by Kelly and Zach Weinersmith](202308#soonish-by-kelly-and-zach-weinersmith)
 - [_Spare_ by Prince Harry](202307#spare-by-prince-harry)
 - [_Steve Jobs_ by Walter Isaacson](202304#steve-jobs-by-walter-isaacson)-
 - [_Telluria_ by Vladimir Sorokin](202304#telluria-by-vladimir-sorokin)
