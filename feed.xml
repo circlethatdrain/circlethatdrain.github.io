@@ -85,12 +85,12 @@
 
     <item>
       <title>August 2023 Reading</title>
-      <link>https://circlethatdrain.github.io/reading/202307</link>
+      <link>https://circlethatdrain.github.io/reading/202308</link>
       <pubDate>Mon, 11 September 2023 21:00:00 +0000</pubDate>
       <category>MonthlyReading</category>
       <description>
 	<![CDATA[
-	<p>Here's what I read in July of 2023</p>
+	<p>Here's what I read in August of 2023</p>
 	<ul>
 	  <li><i>Soonish</i> by Kelly and Zach Weinersmith</li>
 	  <li><i>Coming of Age in Samoa</i> by Margaret Mead</li>
@@ -99,6 +99,29 @@
 	]]>
       </description>
     </item>
-    
+
+
+    <item>
+      <title>September 2023 Reading</title>
+      <link>https://circlethatdrain.github.io/reading/202309</link>
+      <pubDate>Tue, 17 October 2023 21:00:00 +0000</pubDate>
+      <category>MonthlyReading</category>
+      <description>
+	<![CDATA[
+	<p>Here's what I read in September of 2023</p>
+	<ul>
+          <li><i>Chain-Gang All-Stars</i> by Nana Kwame Adjei Brenyah</li>
+          <li><i>The Great Gatsby</i> by F Scott Fitzgerald</li>
+          <li><i>Yellowface</i> by R F Kuang</li>
+          <li><i>The Bar Mitzvah Murder</i> by Lee Harris</li>
+          <li><i>Between Two Moons</i> by Aisha Abdel Gawad</li>
+          <li><i>My Map of You</i> by Isabelle Broom</li>
+          <li><i>Counterfeit</i> by Kristin Chen</li>
+	</ul>
+	<p>To get more details, click <a href="https://circlethatdrain.github.io/reading/202309">here</a></p>
+	]]>
+      </description>
+    </item>
+
   </channel>
 </rss>
