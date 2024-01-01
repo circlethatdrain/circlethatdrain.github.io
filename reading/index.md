@@ -11,7 +11,7 @@ Back Catalog of Monthly Reading Capsules
 
 Review Index
 ------------
-- [_A Brief History of Living Forever_ by Jaroslav Kalfa&rcaron;](202310#a-brief-history-of-living-forever-by-jaroslav-kalfa%C5%99)
+- [_A Brief History of Living Forever_ by Jaroslav Kalfař](202310#a-brief-history-of-living-forever-by-jaroslav-kalfa%C5%99)
 - [_A Deadly Education_ by Naomi Novik](202304#a-deadly-education-by-naomi-novik)
 - [_American Born Chinese_ by Gene Luen Yang](202306#american-born-chinese-by-gene-luen-yang)
 - [_Aviva and the Dybbuk_ by Mari Lowe](202304#aviva-and-the-dybbuk-by-mari-lowe)
