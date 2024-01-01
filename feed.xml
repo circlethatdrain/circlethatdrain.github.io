@@ -100,7 +100,6 @@
       </description>
     </item>
 
-
     <item>
       <title>September 2023 Reading</title>
       <link>https://circlethatdrain.github.io/reading/202309</link>
@@ -123,5 +122,41 @@
       </description>
     </item>
 
+    <item>
+      <title>October 2023 Reading</title>
+      <link>https://circlethatdrain.github.io/reading/202310</link>
+      <pubDate>Mon, 1 January 2024 21:00:00 +0000</pubDate>
+      <category>MonthlyReading</category>
+      <description>
+	<![CDATA[
+	<p>Here's what I read in October of 2023</p>
+	<ul>
+          <li><i>A Brief History of Living Forever</i> by Jaroslav Kalfa&rcaron;</li>
+          <li><i>The Future of Another Timeline</i> by Annalee Newitz</li>
+          <li><i>The Great Believers</i> by Rebecca Makkai</li>
+          <li><i>The Absolutely True Diary of a Part-Time Indian</i> by Sherman Alexie</li>
+	</ul>
+	<p>To get more details, click <a href="https://circlethatdrain.github.io/reading/202310">here</a></p>
+	]]>
+      </description>
+    </item>
+
+    <item>
+      <title>November 2023 Reading</title>
+      <link>https://circlethatdrain.github.io/reading/202311</link>
+      <pubDate>Mon, 1 January 2024 21:05:00 +0000</pubDate>
+      <category>MonthlyReading</category>
+      <description>
+	<![CDATA[
+	<p>Here's what I read in October of 2023</p>
+	<ul>
+          <li><i>Wallenberg</i> by Kati Marton</li>
+          <li><i>I Have Some Questions For You</i> by Rebecca Makkai</li>
+	</ul>
+	<p>To get more details, click <a href="https://circlethatdrain.github.io/reading/202311">here</a></p>
+	]]>
+      </description>
+    </item>
+    
   </channel>
 </rss>

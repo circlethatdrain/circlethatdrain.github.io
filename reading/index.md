@@ -6,9 +6,12 @@ Back Catalog of Monthly Reading Capsules
 - [July 2023](202307)
 - [August 2023](202308)
 - [September 2023](202309)
+- [October 2023](202310)
+- [November 2023](202311)
 
 Review Index
 ------------
+- [_A Brief History of Living Forever_ by Jaroslav Kalfa&rcaron;](202310#a-brief-history-of-living-forever-by-jaroslav-kalfa%C5%99)
 - [_A Deadly Education_ by Naomi Novik](202304#a-deadly-education-by-naomi-novik)
 - [_American Born Chinese_ by Gene Luen Yang](202306#american-born-chinese-by-gene-luen-yang)
 - [_Aviva and the Dybbuk_ by Mari Lowe](202304#aviva-and-the-dybbuk-by-mari-lowe)
@@ -23,6 +26,7 @@ Review Index
 - [_Day of the Oprichnik_ by Vladimir Sorokin](202304#day-of-the-oprichnik-by-vladimir-sorokin)
 - [_Everfair_ by Nisi Shawl](202306#everfair-by-nisi-shawl)
 - [_Everything Flows_ by Vasily Grossman](202306#everything-flows-by-vasily-grossman)
+- [_I Have Some Questions For You_ by Rebecca Makkai](202311#i-have-some-questions-for-you-by-rebecca-makkai)
 - [_I Know Why the Caged Bird Sings_ by Maya Angelou](202307#i-know-why-the-caged-bird-sings-by-maya-angelou)
 - [_My Map of You_ by Isabelle Broom](202309#my-map-of-you-by-isabelle-broom)
 - [_Our Missing Hearts_ by Celeste Ng](202307#our-missing-hearts-by-celeste-ng)
@@ -30,11 +34,15 @@ Review Index
 - [_Spare_ by Prince Harry](202307#spare-by-prince-harry)
 - [_Steve Jobs_ by Walter Isaacson](202304#steve-jobs-by-walter-isaacson)-
 - [_Telluria_ by Vladimir Sorokin](202304#telluria-by-vladimir-sorokin)
+- [_The Absolutely True Diary of a Part-Time Indian_ by Sherman Alexie](202310#the-absolutely-true-diary-of-a-part-time-indian-by-sherman-alexie)
 - [_The Bar Mitzvah Murder_ by Lee Harris](202309#the-bar-mitzvah-murder-by-lee-harris)
+- [_The Future of Another Timeline_ by Annalee Newitz](202310#the-future-of-another-timeline-by-annalee-newitz)
+- [_The Great Believers_ by Rebecca Makkai](202310#the-great-believers-by-rebecca-makkai)
 - [_The Great Gatsby_ by F Scott Fitzgerald](202309#the-great-gatsby-by-f-scott-fitzgerald)
 - [_The Last Graduate_ by Naomi Novik](202305#the-last-graduate-by-naomi-novik)
 - [_The Shock Doctrine_ by Naomi Klein](202306#the-shock-doctrine-by-naomi-klein)
 - [_The Spear Cuts Through Water_ by Simon Jimenez](202305#the-spear-cuts-through-water-by-simon-jimenez)
 - [_The Winner_ by David Baldacci](202305#the-winner-by-david-baldacci)
+- [_Wallenberg_ by Kati Marton](202311#wallenberg-by-kati-marton)
 - [_Welcome to the Goddamn Ice Cube_ by Blair Braverman](202304#welcome-to-the-goddamn-ice-cube-by-blair-braverman)
 - [_Yellowface_ by R F Kuang](202309#yellowface-by-r-f-kuang)
