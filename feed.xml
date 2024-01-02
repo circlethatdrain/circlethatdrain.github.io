@@ -148,7 +148,7 @@
       <category>MonthlyReading</category>
       <description>
 	<![CDATA[
-	<p>Here's what I read in October of 2023</p>
+	<p>Here's what I read in November of 2023</p>
 	<ul>
           <li><i>Wallenberg</i> by Kati Marton</li>
           <li><i>I Have Some Questions For You</i> by Rebecca Makkai</li>
@@ -157,6 +157,27 @@
 	]]>
       </description>
     </item>
-    
+
+    <item>
+      <title>December 2023 Reading</title>
+      <link>https://circlethatdrain.github.io/reading/202311</link>
+      <pubDate>Mon, 1 January 2024 21:10:00 +0000</pubDate>
+      <category>MonthlyReading</category>
+      <description>
+	<![CDATA[
+	<p>Here's what I read in December of 2023</p>
+	<ul>
+          <li><i>Rules for Radicals</i> by Saul Alinsky</li>
+          <li><i>Jurassic Park</i> by Michael Crichton</li>
+          <li><i>Eat, Pray, Love</i> by Elizabeth Gilbert</i>
+          <li><i>Bodega Dreams</i> by Ernesto Qui&ntilde;onez</li>
+          <li><i>The Devil and Webster</i> by Jean Hanff Korelitz</li>
+          <li><i>The Conquest of Bread</i> by Pyotr Kropotkin</li>
+	</ul>
+	<p>To get more details, click <a href="https://circlethatdrain.github.io/reading/202312">here</a></p>
+	]]>
+      </description>
+    </item>
+
   </channel>
 </rss>
