@@ -160,7 +160,7 @@
 
     <item>
       <title>December 2023 Reading</title>
-      <link>https://circlethatdrain.github.io/reading/202311</link>
+      <link>https://circlethatdrain.github.io/reading/202312</link>
       <pubDate>Mon, 1 January 2024 21:10:00 +0000</pubDate>
       <category>MonthlyReading</category>
       <description>
@@ -179,5 +179,25 @@
       </description>
     </item>
 
+    <item>
+      <title>January 2024 Reading</title>
+      <link>https://circlethatdrain.github.io/reading/202401</link>
+      <pubDate>Tue, 4 February 2024 21:45:00 +0000</pubDate>
+      <category>MonthlyReading</category>
+      <description>
+	<![CDATA[
+	<p>Here's what I read in January of 2024</p>
+	<ul>
+          <li><i>Shantaram</i> by Gregory David Roberts</li>
+          <li><i>In the Pines: A Lynching, A Lie, A Reckoning</i> by Grace Elizabeth Hale</li>
+          <li><i>The Adventures of Amina Al-Sirafi</i> by Shannon Chakraborty</i>
+          <li><i>Leviathan Falls</i> by James S A Corey</li>
+	</ul>
+	<p>To get more details, click <a href="https://circlethatdrain.github.io/reading/202401">here</a></p>
+	]]>
+      </description>
+    </item>
+
+    
   </channel>
 </rss>
