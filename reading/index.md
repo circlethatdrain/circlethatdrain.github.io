@@ -9,6 +9,7 @@ Back Catalog of Monthly Reading Capsules
 - [October 2023](202310)
 - [November 2023](202311)
 - [December 2023](202312)
+- [January 2024](202401)
 
 Review Index
 ------------
@@ -31,14 +32,18 @@ Review Index
 - [_Everything Flows_ by Vasily Grossman](202306#everything-flows-by-vasily-grossman)
 - [_I Have Some Questions For You_ by Rebecca Makkai](202311#i-have-some-questions-for-you-by-rebecca-makkai)
 - [_I Know Why the Caged Bird Sings_ by Maya Angelou](202307#i-know-why-the-caged-bird-sings-by-maya-angelou)
+- [_In the Pines: A Lynching, A Lie, A Reckoning_ by Grace Elizabeth Hale](202401#In-the-Pines-A-Lynching-A-Lie-A-Reckoning-by-Grace-Elizabeth-Hale)
+- [_Leviathan Falls_ by James S A Corey](202401#Leviathan-Falls-by-James-S-A-Corey)
 - [_My Map of You_ by Isabelle Broom](202309#my-map-of-you-by-isabelle-broom)
 - [_Our Missing Hearts_ by Celeste Ng](202307#our-missing-hearts-by-celeste-ng)
 - [_Rules for Radicals_ by Saul Alinsky](202312#rules-for-radicals-by-saul-alinsky)
+- [_Shantaram_ by Gregory David Roberts](202401#Shantaram-by-Gregory-David-Roberts)
 - [_Soonish_ by Kelly and Zach Weinersmith](202308#soonish-by-kelly-and-zach-weinersmith)
 - [_Spare_ by Prince Harry](202307#spare-by-prince-harry)
 - [_Steve Jobs_ by Walter Isaacson](202304#steve-jobs-by-walter-isaacson)-
 - [_Telluria_ by Vladimir Sorokin](202304#telluria-by-vladimir-sorokin)
 - [_The Absolutely True Diary of a Part-Time Indian_ by Sherman Alexie](202310#the-absolutely-true-diary-of-a-part-time-indian-by-sherman-alexie)
+- [_The Adventures of Amina Al-Sirafi_ by Shannon Chakraborty](202401#The-Adventures-of-Amina-Al-Sirafi-by-Shannon-Chakraborty)
 - [_The Bar Mitzvah Murder_ by Lee Harris](202309#the-bar-mitzvah-murder-by-lee-harris)
 - [_The Conquest of Bread_ by Pyotr Kropotkin](202312#the-conquest-of-bread-by-pyotr-kropotkin)
 - [_The Devil and Webster_ by Jean Hanff Korelitz](202312#the-devil-and-webster-by-jean-hanff-korelitz)
